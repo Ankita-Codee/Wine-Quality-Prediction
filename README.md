@@ -20,7 +20,7 @@
 Clone the repository
 
 ```bash
-https://github.com/entbappy/End-to-End-Wine-Quality-Prediction
+https://github.com/Ankita-Codee/Wine-Quality-Prediction
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
@@ -76,8 +76,7 @@ python app.py
 
 	
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI: 970547337635.dkr.ecr.ap-south-1.amazonaws.com/mlproj
-
+    - Save the URI: http://928100078386.dkr.ecr.us-east-1.amazonaws.com/mlproject_cicd
 	
 ## 4. Create EC2 machine (Ubuntu) 
 
